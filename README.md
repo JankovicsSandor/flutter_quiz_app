@@ -1,4 +1,4 @@
-# flutter_party_invite
+# Quiz app
 
 A new Flutter project.
 
